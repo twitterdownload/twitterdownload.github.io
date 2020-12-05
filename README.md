@@ -26,3 +26,10 @@
 1. Go to [Youtube-DLG's website](https://mrs0m30n3.github.io/youtube-dl-gui/) and click "Download windows installer", if on linux or mac, click "Other"
 2. Once downloaded, run the installer
 3. Run Youtube-DLG and insert the twitter link
+
+
+## Any Platform
+
+1. Go to [this link](https://twitterdownload.github.io/websites.md) for a list of websites
+2. Enter the link of the twitter post
+3. Click Download
