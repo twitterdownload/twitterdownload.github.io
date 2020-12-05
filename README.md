@@ -7,3 +7,17 @@
  5. Go to [Routinehub](https://routinehub.co/shortcut/6166/) and click "Get Shortcut"
  6. You'll get a few prompts, just click through them
  7. In the twitter app, click the share button then "Share Via" and select DTwitter
+ 
+ ## Windows
+ 
+### Youtube-DLC (Command Line)
+
+1. Go to [Python's download page](https://www.python.org/downloads/windows/) and find the latest version. Now download the release with "installer" in the name
+2. Now open PowerShell (may need to be ran as admin) and type "python -m pip install --upgrade youtube-dlc"
+3. When the install completes, type "youtube-dlc \*video link*
+
+### Youtube-DLG (GUI)
+
+1. Go to [Youtube-DLG's website](https://mrs0m30n3.github.io/youtube-dl-gui/) and click "Download windows installer"
+2. Once downloaded, run the installer
+3. Run Youtube-DLG and insert the twitter link
