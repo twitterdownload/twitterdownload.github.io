@@ -1,4 +1,6 @@
-## iOS/iPadOS
+# iOS/iPadOS
+
+## DTwitter
 
 1. Install [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) 
 2. Go to Settings
@@ -8,9 +10,9 @@
  6. You'll get a few prompts, just click through them
  7. In the twitter app, click the share button then "Share Via" and select DTwitter
  
- ## Windows
+ # Windows
     
-### Youtube-DLC (Command Line)
+## Youtube-DLC (Command Line)
 
 1. Go to [Python's download page](https://www.python.org/downloads/windows/) and find the latest version. Now download the release with "installer" in the name
 2. Now open PowerShell (may need to be ran as admin) and type "python -m pip install --upgrade youtube-dlc"
