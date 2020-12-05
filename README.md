@@ -10,7 +10,7 @@
  6. You'll get a few prompts, just click through them
  7. In the twitter app, click the share button then "Share Via" and select DTwitter
  
- # Windows/Linux/Max
+ # Windows/Linux/Mac
     
 ## Youtube-DLC (Command Line)
 
@@ -18,7 +18,7 @@
 2. Now open PowerShell or the terminal (may need to be ran as admin) and type "python -m pip install --upgrade youtube-dlc"
 3. When the install completes, type "youtube-dlc \*video link*
 
-### Youtube-DLG (GUI)
+## Youtube-DLG (GUI)
 
 1. Go to [Youtube-DLG's website](https://mrs0m30n3.github.io/youtube-dl-gui/) and click "Download windows installer", if on linux or mac, click "Other"
 2. Once downloaded, run the installer
