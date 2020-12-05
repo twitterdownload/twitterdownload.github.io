@@ -10,7 +10,7 @@
  6. You'll get a few prompts, just click through them
  7. In the twitter app, click the share button then "Share Via" and select DTwitter
  
- # Windows/Linux/Mac
+# Windows/Linux/Mac
     
 ## Youtube-DLC (Command Line)
 
