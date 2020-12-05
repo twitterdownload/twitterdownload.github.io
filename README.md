@@ -1,6 +1,9 @@
-# iOS/iPadOS
+# How To Download Twitter Videos
 
-## DTwitter
+
+## iOS/iPadOS
+
+### DTwitter
 
 1. Install [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) 
 2. Go to Settings
@@ -10,15 +13,15 @@
  6. You'll get a few prompts, just click through them
  7. In the twitter app, click the share button then "Share Via" and select DTwitter
  
-# Windows/Linux/Mac
+## Windows/Linux/Mac
     
-## Youtube-DLC (Command Line)
+### Youtube-DLC (Command Line)
 
 1. Go to [Python's download page](https://www.python.org/downloads/) and find the latest version. Now download the release with "installer" in the name. If on linux, simp,y install from your distros package manager. If on Mac OSX, you should have python installed already. 
 2. Now open PowerShell or the terminal (may need to be ran as admin) and type "python -m pip install --upgrade youtube-dlc"
 3. When the install completes, type "youtube-dlc \*video link*
 
-## Youtube-DLG (GUI)
+### Youtube-DLG (GUI)
 
 1. Go to [Youtube-DLG's website](https://mrs0m30n3.github.io/youtube-dl-gui/) and click "Download windows installer", if on linux or mac, click "Other"
 2. Once downloaded, run the installer
