@@ -9,7 +9,7 @@
  7. In the twitter app, click the share button then "Share Via" and select DTwitter
  
  ## Windows
- 
+    
 ### Youtube-DLC (Command Line)
 
 1. Go to [Python's download page](https://www.python.org/downloads/windows/) and find the latest version. Now download the release with "installer" in the name
